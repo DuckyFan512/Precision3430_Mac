@@ -1,10 +1,16 @@
 My system details:
 
+
 Model: Dell Precision 3430
+
 CPU: 8th gen Intel i7-8700
+
 GPU: Intel UHD 630
+
 RAM: 32GB
+
 Storage: 512GB NVME
+
 
 What works?
 - Boots MacOS
